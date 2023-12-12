@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3625/sg-alford-pest-logo.png" alt="" style="width:300px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3866/Bright_Brothers_Logo.png" alt="" style="width:200px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2023 Alford Home Solutions
+                    &copy;2024 Bright Brothers
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #005951;
+  border-top: 1px dashed #005baa;
 }
 .gif-box ul {
     text-align:left;
@@ -208,18 +208,18 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #005951;
+  background-color: #005baa;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #005951;
+  background-color: #005baa;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #005951;
+  border-color: #005baa;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -227,7 +227,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #5fa845;
+  color: #005baa;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
@@ -237,7 +237,7 @@ input:disabled {
   border-bottom: 1px solid #000;
 }
 .input:focus {
-  border-color: #005951;
+  border-color: #005baa;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
